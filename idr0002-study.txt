@@ -16,7 +16,7 @@ Study Public Release Date	2016-05-26
 # Study Publication											
 Study PubMed ID	24943848										
 Study Publication Title	Integration of biological data by kernels on graph nodes allows prediction of new genes involved in mitotic chromosome condensation.										
-Study Author List	Heriche JK, Lees JG, Morilla I, Walter T, Petrova B, Roberti MJ, Hossain MJ, Adler P, Fernandez JM, Krallinger M, Haering CH, Vilo J, Valencia A, Ranea JA, Orengo C, Ellenberg J.										
+Study Author List	Hériché JK, Lees JG, Morilla I, Walter T, Petrova B, Roberti MJ, Hossain MJ, Adler P, Fernández JM, Krallinger M, Haering CH, Vilo J, Valencia A, Ranea JA, Orengo C, Ellenberg J										
 Study PMC ID	PMC4142622										
 Study DOI	http://dx.doi.org/10.1091/mbc.E13-04-0221										
 											
